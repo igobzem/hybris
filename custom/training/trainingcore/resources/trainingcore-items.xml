@@ -35,7 +35,7 @@
     <itemtypes>
 
         <!-- Add your item definitions here -->
-status
+
         <itemtype code="Customer" autocreate="false" generate="false">
             <attributes>
                 <attribute qualifier="emailFlag" type="java.lang.Boolean">
